@@ -15,7 +15,7 @@ out collectively by the network. Zarexcoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Zarexcoin Core software, see [https://litecoin.org](https://litecoin.org).
+the Zarexcoin Core software, see [https://zarexcoin.io](https://zarexcoin.io).
 
 License
 -------
