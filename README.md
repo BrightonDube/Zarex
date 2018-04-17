@@ -1,9 +1,6 @@
 ZarexCoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/litecoin-project/litecoin.svg?branch=master)](https://travis-ci.org/litecoin-project/litecoin)
-
-https://zarexcoin.io
 
 What is Zarexcoin?
 ----------------
@@ -36,7 +33,7 @@ The developer [mailing list](https://groups.google.com/forum/#!forum/litecoin-de
 should be used to discuss complicated or controversial changes before working
 on a patch set.
 
-Developer IRC can be found on Freenode at #litecoin-dev.
+
 
 Testing
 -------
